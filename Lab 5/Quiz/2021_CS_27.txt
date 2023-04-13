@@ -1,0 +1,30 @@
+Amna Zafar                         FORMAT                  
+2021_CS_27                         READY
+
+Q1
+SELECT OrderID,Customers.CustomerID,Employees.EmployeeID,Notes AS EmployeeIDDescription
+FROM Employees
+JOIN Orders
+ON Employees.EmployeeID = Orders.EmployeeID
+JOIN Customers
+ON Customers.CustomerID = Orders.CustomerID
+WHERE Employees.Notes IS NOT NULL
+***
+
+Q2
+SELECT C1.ContactTitle,C1.Region,C1.Country
+FROM Customers C1,Customers C2
+WHERE (C1.ContactTitle = C2.ContactTitle) AND (C1.Region = C2.Region) AND (C1.Country = C2.Country) 
+GROUP BY C1.ContactTitle,C1.Region,C1.Country
+HAVING COUNT(C1.ContactTitle) > 1
+ORDER BY C1.ContactTitle
+***
+
+Q3
+SELECT COUNT(ProductName) AS TotalProducts,ProductName AS FirstLetterOfProduct
+FROM Products
+GROUP BY ProductName
+ORDER BY ProductName
+***
+
+Q4

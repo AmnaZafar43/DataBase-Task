@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\bin\Debug\CRUDA.exe.config
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\bin\Debug\CRUDA.exe
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\bin\Debug\CRUDA.pdb
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\obj\Debug\CRUDA.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\obj\Debug\CRUDA.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\obj\Debug\CRUDA.Form1.resources
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\obj\Debug\CRUDA.Properties.Resources.resources
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\obj\Debug\CRUDA.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\obj\Debug\CRUDA.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\obj\Debug\CRUDA.exe
+C:\Users\user\OneDrive\Documents\CRUDA\CRUDA\obj\Debug\CRUDA.pdb

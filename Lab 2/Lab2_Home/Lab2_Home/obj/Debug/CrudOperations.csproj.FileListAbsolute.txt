@@ -1,0 +1,54 @@
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.exe.config
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.exe
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.pdb
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.AssemblyReference.cache
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.SuggestedBindingRedirects.cache
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.Properties.Resources.resources
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.GenerateResource.cache
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.CoreCompileInputs.cache
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.exe
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.pdb
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.course.resources
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.MainPage.resources
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.StudentForm.resources
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.ViewStudent.resources
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.ViewCourse.resources
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.AttendanceForm.resources
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.RegisterForm.resources
+D:\4th Semester\DB(Lab)\Lab 2\Home Task\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.UnRegisterForm.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.exe.config
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.exe
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.pdb
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.AssemblyReference.cache
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.AttendanceForm.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.course.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.RegisterForm.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.StudentForm.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.UnRegisterForm.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.ViewStudent.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.MainPage.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.Properties.Resources.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.ViewCourse.resources
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.GenerateResource.cache
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.CoreCompileInputs.cache
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.exe
+C:\Users\amadi\OneDrive\Desktop\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.pdb
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.exe.config
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.exe
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\bin\Debug\Lab2_Home.pdb
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.AssemblyReference.cache
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.SuggestedBindingRedirects.cache
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.AttendanceForm.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.course.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.RegisterForm.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.StudentForm.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.UnRegisterForm.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.ViewStudent.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.MainPage.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.Properties.Resources.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.ViewCourse.resources
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.GenerateResource.cache
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\CrudOperations.csproj.CoreCompileInputs.cache
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.exe
+D:\4th Semester\DB(Lab)\Lab 2\Lab2_Home\Lab2_Home\obj\Debug\Lab2_Home.pdb
